@@ -1,4 +1,4 @@
-##VLab Mobile - Virtual Physics Laboratory
+VLab Mobile - Virtual Physics Laboratory
 
 VLab is a virtual physics laboratory application designed to simulate physics experiments digitally. The application helps students, educators, and enthusiasts learn and teach physics concepts interactively and effectively.
 
